@@ -20,25 +20,25 @@ _FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
 	para "<PLAYER> received"
 	line "a @"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... Dat is erg" ; "Oh... That's so"
+	line "teleurstellend..." ; "disappointing..."
 	done
 
 _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
 	text "Hello there,"
-	line "<PLAYER>!"
+	line "<PLAYER>!" ; "<PLAYER>!"
 
 	para "How are the fish"
 	line "biting?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Oh nee!" ; "Oh no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Je hebt geen plek" ; "You have no room"
+	line "voor mijn cadeau!" ; "for my gift!"
 	done

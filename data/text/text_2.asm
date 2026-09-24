@@ -890,8 +890,8 @@ _UseNextMonText::
 	done
 
 _Rival1WinText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Ja! Ben" ; "<RIVAL>: Yeah! Am"
+	line "ik goed of niet?" ; "I great or what?"
 	prompt
 
 _PlayerBlackedOutText2::
@@ -1556,7 +1556,7 @@ _WhatText::
 
 _DepositWhichMonText::
 	text "Deposit which"
-	line "#MON?"
+	line "#MON?" ; "#MON?"
 	done
 
 _MonWasStoredText::

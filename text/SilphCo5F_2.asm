@@ -1,5 +1,5 @@
 _SilphCo5FRockerEndBattleText::
-	text "Oh"
+	text "Oh" ; "Oh"
 	line "goodness!"
 	prompt
 
@@ -30,10 +30,10 @@ _SilphCo5FPokemonReport1Text::
 	text "It's a #MON"
 	line "REPORT!"
 
-	para "#MON LAB"
+	para "#MON LAB" ; "#MON LAB"
 	line "created PORYGON,"
 	cont "the first virtual"
-	cont "reality #MON."
+	cont "reality #MON." ; "reality #MON."
 	done
 
 _SilphCo5FPokemonReport2Text::

@@ -10,92 +10,94 @@ _ViridianCityYoungster1Text::
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Deze #MON-GYM" ; "This #MON GYM"
+	line "is altijd dicht." ; "is always closed."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Ik vraag me af" ; "I wonder who the"
+	line "wie de LEIDER is?" ; "LEADER is?"
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "VIRIDIAN GYM's" ; "VIRIDIAN GYM's"
+	line "LEIDER is terug!" ; "LEADER returned!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "Wil je meer weten" ; "You want to know"
+	line "over de twee" ; "about the 2 kinds"
+	cont "soorten rups-" ; "of caterpillar"
+	cont "#MON?" ; "#MON?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "Oh, oké dan!" ; "Oh, OK then!"
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "CATERPIE heeft" ; "CATERPIE has no"
+	line "geen gif, maar" ; "poison, but"
+	cont "WEEDLE wel." ; "WEEDLE does."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Kijk uit voor de" ; "Watch out for its"
+	line "GIFANGEL!" ; "POISON STING!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Oh Opa! Wees" ; "Oh Grandpa! Don't"
+	line "niet zo gemeen!" ; "be so mean!"
+	cont "Hij moet zijn" ; "He hasn't had his"
+	cont "koffie nog." ; "coffee yet."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "Als ik in PEWTER" ; "When I go shop in"
+	line "CITY ga winkelen," ; "PEWTER CITY, I"
+	cont "moet ik het" ; "have to take the"
+	cont "kronkelende pad" ; "winding trail in"
+	cont "in VIRIDIAN-WOUD" ; "VIRIDIAN FOREST."
+	cont "nemen."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "Je kunt hier" ; "You can't go"
+	line "niet langs!" ; "through here!"
 
-	para "This is private"
-	line "property!"
+	para "Dit is" ; "This is private"
+	line "privéterrein!" ; "property!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Gaap!" ; "Yawn!"
+	line "Ik moet in de zon" ; "I must have dozed"
+	cont "in slaap zijn" ; "off in the sun."
+	cont "gevallen."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Ik droomde over" ; "I had this dream"
+	line "een DROWZEE die" ; "about a DROWZEE"
+	cont "mijn droom opat." ; "eating my dream."
+	cont "Wat is dit?" ; "What's this?"
+	cont "Waar komt deze" ; "Where did this TM"
+	cont "TM vandaan?" ; "come from?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "Dit is griezelig!" ; "This is spooky!"
+	line "Hier, je mag" ; "Here, you can"
+	cont "deze TM hebben." ; "have this TM."
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
-	line "TM42!@"
+	text "<PLAYER> ontving" ; "<PLAYER> received"
+	line "TM42!@" ; "TM42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "TM42 bevat" ; "TM42 contains"
+	line "DROOMETER..." ; "DREAM EATER..."
+	cont "...Snurk..." ; "...Snore..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Je hebt al te" ; "You have too much"
+	line "veel dingen." ; "stuff already."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
@@ -133,49 +135,51 @@ _ViridianCityOldManTimeIsMoneyText::
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Eerst moet je" ; "First, you need"
+	line "de #MON" ; "to weaken the"
+	cont "verzwakken." ; "target #MON."
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "VIRIDIAN CITY " ; "VIRIDIAN CITY "
+	line "Het Eeuwig" ; "The Eternally"
+	cont "Groene Paradijs" ; "Green Paradise"
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "TRAINER-TIPS" ; "TRAINER TIPS"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Vang #MON en" ; "Catch #MON"
+	line "breid je" ; "and expand your"
+	cont "collectie uit!" ; "collection!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Hoe meer je hebt," ; "The more you have,"
+	line "hoe makkelijker" ; "the easier it is"
+	cont "het vechten is!" ; "to fight!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "TRAINER-TIPS" ; "TRAINER TIPS"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "De aanvallen" ; "The battle moves"
+	line "van #MON zijn" ; "of #MON are"
+	cont "beperkt door hun" ; "limited by their"
+	cont "ACTIEPUNTEN, AP." ; "POWER POINTs, PP."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "Om AP bij te vul-" ; "To replenish PP,"
+	line "len, moet je je" ; "rest your tired"
+	cont "vermoeide #MON" ; "#MON at a"
+	cont "laten uitrusten" ; "#MON CENTER!"
+	cont "in een "
+	cont "#MONCENTRUM!"
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "VIRIDIAN CITY" ; "VIRIDIAN CITY"
+	line "#MON-GYM" ; "#MON GYM"
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "De GYM-deuren" ; "The GYM's doors"
+	line "zitten op slot..." ; "are locked..."
 	done

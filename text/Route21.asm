@@ -34,7 +34,7 @@ _Route21Swimmer1BattleText::
 	done
 
 _Route21Swimmer1EndBattleText::
-	text "Ayah!"
+	text "Ayaa!" ; "Ayah!"
 	prompt
 
 _Route21Swimmer1AfterBattleText::

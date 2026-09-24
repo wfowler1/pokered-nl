@@ -37,6 +37,6 @@ _LoreleisRoomLoreleiAfterBattleText::
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Iemands stem:" ; "Someone's voice:"
+	line "Niet wegrennen!" ; "Don't run away!"
 	done

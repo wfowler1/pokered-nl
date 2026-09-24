@@ -254,7 +254,7 @@ SlowbroDexEntry:
 	text_end
 
 IvysaurDexEntry:
-	db "SEED@"
+	db "ZAAD@" ; "SEED@"
 	db 3,3
 	dw 290
 	text_far _IvysaurDexEntry
@@ -324,7 +324,7 @@ RhyhornDexEntry:
 	text_end
 
 LaprasDexEntry:
-	db "TRANSPORT@"
+	db "TRANSPORT@" ; "TRANSPORT@"
 	db 8,2
 	dw 4850
 	text_far _LaprasDexEntry
@@ -387,7 +387,7 @@ StaryuDexEntry:
 	text_end
 
 BlastoiseDexEntry:
-	db "SHELLFISH@"
+	db "SCHAALDIER@" ; "SHELLFISH@"
 	db 5,3
 	dw 1890
 	text_far _BlastoiseDexEntry
@@ -905,7 +905,7 @@ DewgongDexEntry:
 	text_end
 
 CaterpieDexEntry:
-	db "WORM@"
+	db "WORM@" ; "WORM@"
 	db 1,0
 	dw 60
 	text_far _CaterpieDexEntry
@@ -1073,14 +1073,14 @@ StarmieDexEntry:
 	text_end
 
 BulbasaurDexEntry:
-	db "SEED@"
+	db "ZAAD@" ; "SEED@"
 	db 2,4
 	dw 150
 	text_far _BulbasaurDexEntry
 	text_end
 
 VenusaurDexEntry:
-	db "SEED@"
+	db "ZAAD@" ; "SEED@"
 	db 6,7
 	dw 2210
 	text_far _VenusaurDexEntry

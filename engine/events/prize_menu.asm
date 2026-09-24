@@ -158,7 +158,7 @@ PrintPrizePrice:
 	ret
 
 .CoinString:
-	db "COIN@"
+	db "MUNT@" ; "COIN@"
 
 .SixSpacesString:
 	db "      @"

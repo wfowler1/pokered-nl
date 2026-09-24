@@ -19,7 +19,7 @@ _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 	para "<PLAYER> received"
 	line "a @"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
@@ -35,8 +35,8 @@ _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... Dat is erg" ; "Oh... That's so"
+	line "teleurstellend..." ; "disappointing..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::

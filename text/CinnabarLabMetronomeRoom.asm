@@ -7,10 +7,10 @@ _CinnabarLabMetronomeRoomScientist1Text::
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
+	text "<PLAYER> ontving" ; "<PLAYER> received "
 	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
@@ -25,21 +25,21 @@ _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Je rugzak zit" ; "Your pack is"
+	line "propvol!" ; "crammed full!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "EEVEE evolueert in" ; "EEVEE can evolve"
+	line "drie soorten" ; "into 1 of 3 kinds"
+	cont "#MON." ; "of #MON."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
 	text "There's an e-mail"
 	line "message!"
 
-	para "..."
+	para "..." ; "..."
 
 	para "The 3 legendary"
 	line "bird #MON are"
@@ -56,7 +56,7 @@ _CinnabarLabMetronomeRoomPCText::
 	para "From: #MON"
 	line "RESEARCH TEAM"
 
-	para "..."
+	para "..." ; "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::

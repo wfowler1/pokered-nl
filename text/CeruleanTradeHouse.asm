@@ -1,9 +1,9 @@
 _CeruleanTradeHouseGrannyText::
-	text "My husband likes"
-	line "trading #MON."
+	text "Mijn man houdt van" ; "My husband likes"
+	line "#MON ruilen." ; "trading #MON."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "Als je ze verza-" ; "If you are a"
+	line "melt, zou je als-" ; "collector, would"
+	cont "jeblieft met hem" ; "you please trade"
+	cont "willen ruilen?" ; "with him?"
 	done

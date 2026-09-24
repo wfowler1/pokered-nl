@@ -46,8 +46,8 @@ _PokemartNotEnoughMoneyText::
 	prompt
 
 _PokemartItemBagFullText::
-	text "You can't carry"
-	line "any more items."
+	text "Je kunt niet meer" ; "You can't carry"
+	line "bij je dragen." ; "any more items."
 	prompt
 
 _PokemonSellingGreetingText::
@@ -214,19 +214,19 @@ _CableClubNPCPleaseWaitText::
 _CableClubNPCLinkClosedBecauseOfInactivityText::
 	vc_patch Change_link_closed_inactivity_message
 IF DEF(_RED_VC) || DEF(_BLUE_VC)
-	text "Please come again!"
+	text "Tot snel!" ; "Please come again!"
 	done
 	text_start
-	db   "osed because of"
-	cont "inactivity."
+	db   "gesloten wegens" ; "osed because of"
+	cont "inactiviteit." ; "inactivity."
 ELSE
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "De verbinding is" ; "The link has been"
+	line "gesloten wegens" ; "closed because of"
+	cont "inactiviteit." ; "inactivity."
 ENDC
 	vc_patch_end
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again!"
+	para "Neem contact op" ; "Please contact"
+	line "met je vriend en" ; "your friend and"
+	cont "kom weer langs!" ; "come again!"
 	done

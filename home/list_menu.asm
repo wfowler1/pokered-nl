@@ -314,7 +314,7 @@ DisplayChooseQuantityMenu::
 	ret
 
 InitialQuantityText::
-	db "×01@"
+	db "×01@" ; "×01@"
 
 SpacesBetweenQuantityAndPriceText::
 	db "      @"

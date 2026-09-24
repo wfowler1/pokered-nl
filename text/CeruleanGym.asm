@@ -14,7 +14,7 @@ _CeruleanGymMistyPreBattleText::
 	para "My policy is an"
 	line "all-out offensive"
 	cont "with water-type"
-	cont "#MON!"
+	cont "#MON!" ; "#MON!"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
@@ -47,12 +47,12 @@ _CeruleanGymMistyCascadeBadgeInfoText::
 
 _CeruleanGymMistyReceivedTM11Text::
 	text "<PLAYER> received"
-	line "TM11!@"
+	line "TM11!@" ; "TM11!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "Maak even ruimte" ; "You better make"
+	line "vrij!" ; "room for this!"
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::

@@ -1,56 +1,57 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Hé! Wacht!" ; "OAK: Hey! Wait!"
+	line "Niet gaan!@" ; "Don't go out!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: Pas goed op!" ; "OAK: It's unsafe!"
+	line "Wilde #MON le-" ; "Wild #MON live"
+	cont "ven in hoog gras!" ; "in tall grass!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Je hebt je eigen" ; "You need your own"
+	line "#MON nodig om" ; "#MON for your"
+	cont "je te verdedigen." ; "protection."
+	cont "Ik heb een plan!" ; "I know!"
 
-	para "Here, come with"
-	line "me!"
+	para "Kom maar met mij" ; "Here, come with"
+	line "mee!" ; "me!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "Ik voed ook" ; "I'm raising"
+	line "#MON op!" ; "#MON too!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Als ze sterk" ; "When they get"
+	line "worden, kunnen" ; "strong, they can"
+	cont "ze me beschermen!" ; "protect me!"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "Technologie is" ; "Technology is"
+	line "geweldig!" ; "incredible!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Je kan nu voor-" ; "You can now store"
+	line "werpen en #MON" ; "and recall items"
+	cont "opslaan en weer" ; "and #MON as"
+	cont "ophalen via" ; "data via PC!"
+	cont "de PC!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "OAK #MON-" ; "OAK #MON"
+	line "ONDERZOEKSLAB" ; "RESEARCH LAB"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "PALLET TOWN" ; "PALLET TOWN"
+	line "Je reis ligt" ; "Shades of your"
+	cont "in het verschiet!" ; "journey await!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "<PLAYER>'s huis" ; "<PLAYER>'s house "
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "<RIVAL>'s huis" ; "<RIVAL>'s house "
 	done

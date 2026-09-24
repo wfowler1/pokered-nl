@@ -1,26 +1,26 @@
 _CeladonMart4FSuperNerdText::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Ik ga een #POP" ; "I'm getting a"
+	line "halen voor mijn" ; "# DOLL for my"
+	cont "vriendin!" ; "girl friend!"
 	done
 
 _CeladonMart4FYoungsterText::
-	text "I heard something"
-	line "useful."
+	text "Ik heb iets" ; "I heard something"
+	line "nuttigs gehoord." ; "useful."
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "Je kan wilde #-" ; "You can run from"
+	line "MON afleiden met" ; "wild #MON by"
+	cont "een #POP om te" ; "distracting them"
+	cont "kunnen vluchten!" ; "with a # DOLL!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Express yourself"
-	line "with gifts!"
+	text "Druk jezelf uit" ; "Express yourself"
+	line "met cadeus!" ; "with gifts!"
 
-	para "4F: WISEMAN GIFTS"
+	para "3V: CADEAUWINKEL" ; "4F: WISEMAN GIFTS"
 
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "Evolutie-Actie!" ; "Evolution Special!"
+	line "Element-STENEN nu" ; "Element STONEs on"
+	cont "in de uitverkoop!" ; "sale now!"
 	done

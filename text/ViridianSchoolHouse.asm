@@ -1,13 +1,13 @@
 _ViridianSchoolHouseBrunetteGirlText::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "Poeh! Ik probeer" ; "Whew! I'm trying"
+	line "al mijn notities" ; "to memorize all"
+	cont "te onthouden." ; "my notes."
 	done
 
 _ViridianSchoolHouseCooltrainerFText::
-	text "Okay!"
+	text "Oké!" ; "Okay!"
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "Lees het" ; "Be sure to read"
+	line "schoolbord" ; "the blackboard"
+	cont "aandachtig!" ; "carefully!"
 	done

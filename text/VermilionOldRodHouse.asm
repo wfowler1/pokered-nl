@@ -35,21 +35,21 @@ _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... Dat is erg" ; "Oh... That's so"
+	line "teleurstellend..." ; "disappointing..."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
 	text "Hello there,"
-	line "<PLAYER>!"
+	line "<PLAYER>!" ; "<PLAYER>!"
 
 	para "How are the fish"
 	line "biting?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Oh nee!" ; "Oh no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Je hebt geen plek" ; "You have no room"
+	line "voor mijn cadeau!" ; "for my gift!"
 	done

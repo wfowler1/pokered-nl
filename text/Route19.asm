@@ -94,7 +94,7 @@ _Route19Swimmer5BattleText::
 	done
 
 _Route19Swimmer5EndBattleText::
-	text "Oh!"
+	text "Oh!" ; "Oh!"
 	line "I lost!"
 	prompt
 

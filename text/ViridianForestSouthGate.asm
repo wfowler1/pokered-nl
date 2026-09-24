@@ -1,13 +1,14 @@
 _ViridianForestSouthGateGirlText::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "Ga je naar" ; "Are you going to"
+	line "VIRIDIAN-WOUD?" ; "VIRIDIAN FOREST?"
+	cont "Voorzichtig, het" ; "Be careful, it's"
+	cont "is er een natuur-" ; "a natural maze!"
+	cont "lijk doolhof!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::
-	text "RATTATA may be"
-	line "small, but its"
-	cont "bite is wicked!"
-	cont "Did you get one?"
+	text "RATTATA is klein," ; "RATTATA may be"
+	line "maar het bijt als" ; "small, but its"
+	cont "geen ander! Heb" ; "bite is wicked!"
+	cont "jij er eentje?" ; "Did you get one?"
 	done

@@ -25,10 +25,10 @@ _FuchsiaGymKogaSoulBadgeInfoText::
 	done
 
 _FuchsiaGymKogaReceivedTM06Text::
-	text "<PLAYER> received"
+	text "<PLAYER> ontving" ; "<PLAYER> received"
 	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _FuchsiaGymKogaTM06ExplanationText::

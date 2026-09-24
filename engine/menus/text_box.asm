@@ -146,7 +146,7 @@ DisplayMoneyBox:
 	ret
 
 CurrencyString:
-	db "      ¥@"
+	db "      ¥@" ; "      ¥@"
 
 DoBuySellQuitMenu:
 	ld a, [wStatusFlags5]
@@ -502,9 +502,9 @@ DisplayFieldMoveMonMenu:
 INCLUDE "data/moves/field_move_names.asm"
 
 PokemonMenuEntries:
-	db   "STATS"
-	next "SWITCH"
-	next "CANCEL@"
+	db   "OVERZICHT" ; "STATS"
+	next "WISSEL" ; "SWITCH"
+	next "SLUITEN@" ; "CANCEL@"
 
 GetMonFieldMoves:
 	ld a, [wWhichPokemon]

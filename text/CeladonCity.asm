@@ -40,10 +40,10 @@ _CeladonCityGramps3Text::
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "<PLAYER> ontving" ; "<PLAYER> received"
 	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
@@ -54,7 +54,7 @@ _CeladonCityGramps3TM41ExplanationText::
 	line "can use it!"
 
 	para "That #MON is"
-	line "CHANSEY!"
+	line "CHANSEY!" ; "CHANSEY!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
@@ -103,14 +103,14 @@ _CeladonCityTrainerTips1Text::
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
+	text "CELADON CITY" ; "CELADON CITY"
 	line "The City of"
 	cont "Rainbow Dreams"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
-	line "#MON GYM"
+	text "CELADON CITY" ; "CELADON CITY"
+	line "#MON GYM" ; "#MON GYM"
 	cont "LEADER: ERIKA"
 
 	para "The Nature Loving"

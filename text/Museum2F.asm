@@ -35,7 +35,7 @@ _Museum2FHikerText::
 
 _Museum2FSpaceShuttleSignText::
 	text "SPACE SHUTTLE"
-	line "COLUMBIA"
+	line "COLUMBIA" ; "COLUMBIA"
 	done
 
 _Museum2FMoonStoneSignText::

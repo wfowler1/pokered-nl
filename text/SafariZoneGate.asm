@@ -1,6 +1,6 @@
 _SafariZoneGateSafariZoneWorker1Text::
 	text "Welcome to the"
-	line "SAFARI ZONE!"
+	line "SAFARI ZONE!" ; "SAFARI ZONE!"
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::

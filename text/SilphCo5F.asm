@@ -1,5 +1,5 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
+	text "TEAM ROCKET is" ; "TEAM ROCKET is"
 	line "in an uproar over"
 	cont "some intruder."
 	cont "That's you right?"

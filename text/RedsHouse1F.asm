@@ -1,37 +1,38 @@
 _RedsHouse1FMomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "MAM: Juist." ; "MOM: Right."
+	line "Ieder kind gaat" ; "All boys leave"
+	cont "ooit uit huis." ; "home some day."
+	cont "Dat zeiden ze" ; "It said so on TV."
+	cont "op TV."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "PROF.OAK, onze" ; "PROF.OAK, next"
+	line "buurman, is naar" ; "door, is looking"
+	cont "je op zoek." ; "for you."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "MAM: <PLAYER>!" ; "MOM: <PLAYER>!"
+	line "Je kan beter even" ; "You should take a"
+	cont "een pauze nemen." ; "quick rest."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "MAM: Oh goed!" ; "MOM: Oh good!"
+	line "Jij en je" ; "You and your"
+	cont "#MON zien er" ; "#MON are"
+	cont "top uit!" ; "looking great!"
+	cont "Wees voorzichtig!" ; "Take care now!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "Er is een film" ; "There's a movie"
+	line "op TV. Vier" ; "on TV. Four boys"
+	cont "jongens lopen" ; "are walking on"
+	cont "op het spoor." ; "railroad tracks."
 
-	para "I better go too."
+	para "Ik moet ook gaan." ; "I better go too."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Oops, wrong side."
+	text "Oeps, andere kant." ; "Oops, wrong side."
 	done

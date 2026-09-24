@@ -185,6 +185,7 @@ _GameCornerPosterSwitchBehindPosterText::
 	text_end
 
 _GameCornerOopsForgotCoinCaseText::
-	text "Oops! Forgot the"
-	line "COIN CASE!"
+	text "Oeps! Ben het" ; "Oops! Forgot the"
+	line "GELDKISTJE" ; "COIN CASE!"
+	cont "vergeten!"
 	done

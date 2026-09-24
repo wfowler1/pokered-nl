@@ -1,17 +1,17 @@
 _PewterMartYoungsterText::
-	text "A shady, old man"
-	line "got me to buy"
-	cont "this really weird"
-	cont "fish #MON!"
+	text "Een vreemde oude" ; "A shady, old man"
+	line "man heeft me een" ; "got me to buy"
+	cont "rare vis-#MON" ; "this really weird"
+	cont "aangesmeerd!" ; "fish #MON!"
 
-	para "It's totally weak"
-	line "and it cost ¥500!"
+	para "Het is nutteloos" ; "It's totally weak"
+	line "en het kost ¥500!" ; "and it cost ¥500!"
 	done
 
 _PewterMartSuperNerdText::
-	text "Good things can"
-	line "happen if you"
-	cont "raise #MON"
-	cont "diligently, even"
-	cont "the weak ones!"
+	text "Als je #MON" ; "Good things can"
+	line "goed opvoedt," ; "happen if you"
+	cont "zelfs de zwakke," ; "raise #MON"
+	cont "kunnen er mooie" ; "diligently, even"
+	cont "dingen gebeuren!" ; "the weak ones!"
 	done

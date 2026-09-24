@@ -73,10 +73,10 @@ _CannotGetOffHereText::
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
+	text "<PLAYER> ontving" ; "<PLAYER> got"
 	line "@"
 	text_ram wNameBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _SentToBoxText::

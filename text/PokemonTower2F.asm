@@ -1,30 +1,30 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: Hé," ; "<RIVAL>: Hey,"
+	line "<PLAYER>! Wat" ; "<PLAYER>! What"
+	cont "doe jij hier?" ; "brings you here?"
+	cont "Je #MON zien" ; "Your #MON"
+	cont "er niet dood uit!" ; "don't look dead!"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Ik kan ze wel" ; "I can at least"
+	line "laten flauw-" ; "make them faint!"
+	cont "vallen! Kom, maat!" ; "Let's go, pal!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "What?"
-	line "You stinker!"
+	text "Wat?" ; "What?"
+	line "Jij oliebol!" ; "You stinker!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Ik deed 't ook nog" ; "I took it easy on"
+	line "rustig aan!" ; "you too!"
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: Nou," ; "<RIVAL>: Well,"
+	line "kijk jouw zwakke" ; "look at all your"
+	cont "#MON dan!" ; "wimpy #MON!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "Maak ze een beetje" ; "Toughen them up a"
+	line "sterker!" ; "bit more!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::

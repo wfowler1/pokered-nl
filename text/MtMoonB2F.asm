@@ -1,18 +1,18 @@
 _MtMoonB2FDomeFossilYouWantText::
 	text "You want the"
-	line "DOME FOSSIL?"
+	line "DOME FOSSIL?" ; "DOME FOSSIL?"
 	done
 
 _MtMoonB2FHelixFossilYouWantText::
 	text "You want the"
-	line "HELIX FOSSIL?"
+	line "HELIX FOSSIL?" ; "HELIX FOSSIL?"
 	done
 
 _MtMoonB2FReceivedFossilText::
 	text "<PLAYER> got the"
 	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _MtMoonB2FYouHaveNoRoomText::
@@ -63,7 +63,7 @@ _MtMoonB2FRocket1BattleText::
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
+	text "Urgh!" ; "Urgh!"
 	line "Now I'm mad!"
 	prompt
 
@@ -76,7 +76,7 @@ _MtMoonB2FRocket1AfterBattleText::
 _MtMoonB2FRocket2BattleText::
 	text "We, TEAM ROCKET,"
 	line "are #MON"
-	cont "gangsters!"
+	cont "gangsters!" ; "gangsters!"
 	done
 
 _MtMoonB2FRocket2EndBattleText::

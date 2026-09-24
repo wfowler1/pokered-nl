@@ -1,5 +1,5 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
+	text "Waaaaa!" ; "Waaaaa!"
 	cont "I'm scared!"
 	done
 

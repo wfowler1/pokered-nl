@@ -86,7 +86,7 @@ _PokemonFanClubReceivedBikeVoucherText::
 	text "<PLAYER> received"
 	line "a @"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _PokemonFanClubExplainBikeVoucherText::

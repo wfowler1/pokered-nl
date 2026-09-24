@@ -254,7 +254,7 @@ HoFPlayTimeText:
 	db "PLAY TIME@"
 
 HoFMoneyText:
-	db "MONEY@"
+	db "GELD@" ; "MONEY@"
 
 DexSeenOwnedText:
 	text_far _DexSeenOwnedText

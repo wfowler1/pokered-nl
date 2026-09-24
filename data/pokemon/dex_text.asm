@@ -79,13 +79,13 @@ _SlowbroDexEntry::
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Wanneer de bol op" ; "When the bulb on"
+	next "de rug groot ge-" ; "its back grows"
+	next "noeg is, verliest" ; "large, it appears"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "het het vermogen" ; "to lose the"
+	next "om op de achter-" ; "ability to stand"
+	next "benen te staan." ; "on its hind legs"
 	dex
 
 _ExeggutorDexEntry::
@@ -179,13 +179,13 @@ _RhyhornDexEntry::
 	dex
 
 _LaprasDexEntry::
-	text "A #MON that"
-	next "has been over-"
-	next "hunted almost to"
+	text "Een #MON die" ; "A #MON that"
+	next "door te veel jacht" ; "has been over-"
+	next "bijna uitgestorven" ; "hunted almost to"
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "is. Het kan mensen" ; "extinction. It"
+	next "over het water" ; "can ferry people"
+	next "transporteren." ; "across the water"
 	dex
 
 _ArcanineDexEntry::
@@ -269,13 +269,13 @@ _StaryuDexEntry::
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "Een wrede #MON" ; "A brutal #MON"
+	next "met hogedruk-" ; "with pressurized"
+	next "spuiten op het" ; "water jets on its"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "schild. Ze worden" ; "shell. They are"
+	next "gebruikt voor zeer" ; "used for high"
+	next "snelle tackles" ; "speed tackles"
 	dex
 
 _PinsirDexEntry::
@@ -1009,13 +1009,13 @@ _DewgongDexEntry::
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "De kleine voetjes" ; "Its short feet"
+	next "zijn voorzien van" ; "are tipped with"
+	next "zuignappen waar-" ; "suction pads that"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "door het moeite-" ; "enable it to"
+	next "loos op heuvels en" ; "tirelessly climb"
+	next "muren kan klimmen." ; "slopes and walls"
 	dex
 
 _MetapodDexEntry::
@@ -1249,23 +1249,23 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Een zaadje werd op" ; "A strange seed was"
+	next "de rug geplant bij" ; "planted on its"
+	next "de geboorte." ; "back at birth."
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "De plant groeit" ; "The plant sprouts"
+	next "en bloeit met deze" ; "and grows with"
+	next "#MON mee." ; "this #MON"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "De plant bloeit" ; "The plant blooms"
+	next "wanneer het veel" ; "when it is"
+	next "zonne-energie ab-" ; "absorbing solar"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "sorbeert. Blijft" ; "energy. It stays"
+	next "bewegen om zon-" ; "on the move to"
+	next "licht te vinden." ; "seek sunlight"
 	dex
 
 _TentacruelDexEntry::

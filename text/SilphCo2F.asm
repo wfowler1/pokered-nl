@@ -10,14 +10,14 @@ SilphCo2FSilphWorkerFPleaseTakeThisText::
 	prompt
 
 _SilphCo2FSilphWorkerFReceivedTM36Text::
-	text "<PLAYER> got"
+	text "<PLAYER> ontving" ; "<PLAYER> got"
 	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "!@" ; "!@"
 	text_end
 
 _SilphCo2FSilphWorkerFTM36ExplanationText::
-	text "TM36 is"
+	text "TM36 is" ; "TM36 is"
 	line "SELFDESTRUCT!"
 
 	para "It's powerful, but"
@@ -45,7 +45,7 @@ _SilphCo2FScientist1EndBattleText::
 _SilphCo2FScientist1AfterBattleText::
 	text "I work for both"
 	line "SILPH and TEAM"
-	cont "ROCKET!"
+	cont "ROCKET!" ; "ROCKET!"
 	done
 
 _SilphCo2FScientist2BattleText::
@@ -93,5 +93,5 @@ _SilphCo2FRocket2EndBattleText::
 _SilphCo2FRocket2AfterBattleText::
 	text "SILPH CO. will"
 	line "be merged with"
-	cont "TEAM ROCKET!"
+	cont "TEAM ROCKET!" ; "TEAM ROCKET!"
 	done
